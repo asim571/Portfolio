@@ -130,6 +130,16 @@ nav{
     background-color: rgba(14, 147, 0, 0.5)!important;
     color: #f2f2f2;
 }
+
+.graphics-design{
+    background-color: rgba(76, 77, 111, 0.5)!important;
+    color: #f2f2f2;
+}
+
+.backend-design{
+    background-color: #5b4aaa !important;
+    color: #f2f2f2;
+}
 .service-title{
     margin: 15px 0;
 }
